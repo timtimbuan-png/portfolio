@@ -31,7 +31,7 @@ function App() {
           <div className="project-card">
             <h3>Book-Management</h3>
             <p>CRUD system with authentication, search, bootstrap UI.</p>
-            <a className="btn" href="https://portfolio-eight-mu-v0c46ib9qi.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a>
+            <a className="btn" href="https://book-snowy-three.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a>
           </div>
 
           {/* PROJECT CARD 2 */}
