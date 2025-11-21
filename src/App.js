@@ -36,9 +36,9 @@ function App() {
 
           {/* PROJECT CARD 2 */}
           <div className="project-card">
-            <h3>React Portfolio</h3>
-            <p>A personal portfolio built in ReactJS.</p>
-            <a className="btn" href="#" target="_blank" rel="noopener noreferrer">View Project</a>
+            <h3>MobApp</h3>
+            <p>My Mobile App.</p>
+            <a className="btn" href="https://appetize.io/embed/b_clf3yzcnyyg5af25nlkyh7d7ty?device=pixel9pro&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A54.0.0%26channel-name%3Dproduction%26snack%3D%2540timmy_20%252Fmobapp%26snack-channel%3DNNaCJdAhI5&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both" target="_blank" rel="noopener noreferrer">View Project</a>
           </div>
 
         </div>
